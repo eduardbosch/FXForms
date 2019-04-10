@@ -30,6 +30,15 @@
 //  3. This notice may not be removed or altered from any source distribution.
 //
 
+#import <UIKit/UIKit.h>
+
+//! Project version number for FXForms.
+FOUNDATION_EXPORT double FXFormsVersionNumber;
+
+//! Project version string for FXForms.
+FOUNDATION_EXPORT const unsigned char FXFormsVersionString[];
+
+
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wobjc-missing-property-synthesis"
 #pragma clang diagnostic ignored "-Wmissing-variable-declarations"
